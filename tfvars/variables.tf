@@ -20,7 +20,7 @@ variable "common_tags" {
 }
 
 variable "domain_name" {
-    default = "daws-78s.online"
+    default = "susmitha.online"
 }
 
 variable "zone_id" {
